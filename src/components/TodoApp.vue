@@ -2,7 +2,7 @@
   <div class="container">
     <!-- Header -->
     <div class="header">
-      <h1>✨ Todo List App</h1>
+      <h1>✨ Todo List Arataa</h1>
       <p>Kelola tugas Anda dengan mudah dan efisien</p>
     </div>
 
